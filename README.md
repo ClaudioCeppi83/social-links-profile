@@ -58,6 +58,7 @@ body {
     margin: 0;
     height: 100vh;
 }
+```
 
 I also gained a better understanding of managing layout and styling for responsive design.
 
