@@ -31,8 +31,8 @@ Mobile final version: [Screenshot](/design/final-mobile.jpeg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/erceppi/social-links-profile)
-- Live Site URL: [Add live site URL here](http://erceppi.github.io/social-links-profile/)
+- Solution URL: [Add solution URL here](https://github.com/ClaudioCeppi83/social-links-profile)
+- Live Site URL: [Add live site URL here](http://ClaudioCeppi83.github.io/social-links-profile/)
 
 ## My process
 
@@ -76,8 +76,9 @@ In future projects, I plan to focus on:
 
 ## Author
 
-- GitHub - [Claudio Ceppi](https://github.com/erceppi/social-links-profile)
+- GitHub - [Claudio Ceppi](https://github.com/ClaudioCeppi83)
 - Frontend Mentor - [@erceppi](https://www.frontendmentor.io/profile/erceppi)
+- Instagram - [@erceppi.DEV](https://www.instagram.com/erceppi.dev/)
 
 ## Acknowledgments
 
